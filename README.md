@@ -13,4 +13,33 @@ We want to be able to analyze specific stock markets such as Technology, Airline
 
 We will also try to implement a sort of machine learning for time series into our program. We will try to use the Random forest Algorithm as well as Prophetic time series forecasting to identify and predict the market. Further research is needed in order to complete this step. We also want to be able to implement effective team strategies in order to fully understand processes similar to Scrum.
 
+Project Sources: 
+
+
+Language/ IDE used: 
+
+Python(Pandas, NumPy, matplotlib, Seaborn, etc.)/Jupyter notebook/PyCharm
+Machine Learning* 
+MySql
+
+Technology:  Hasan 
+Apple (AAPL)
+Facebook (FB)
+Google (GOOGL)
+Microsoft (MSFT)
+Amazon (AMZN)
+
+Airlines: Akash
+American Airlines (AAL)
+Air China Airlines (AIRYY)
+British Airways (BA) - London Stock Exchange
+Lufthansa Airlines (DLAKY)
+Qantas Airlines (QABSY)
+
+Healthcare: Josh 
+Moderna Inc (MRNA)
+Co-Diagnostics Inc (CODX)
+Vir Biotechnology (VIR)
+Vaxart Inc (VXRT)
+Inovio Pharmaceuticals, Inc. (INO) 
 
