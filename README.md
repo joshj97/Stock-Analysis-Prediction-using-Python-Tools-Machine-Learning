@@ -23,6 +23,7 @@ Machine Learning*
 MySql
 
 Technology:  Hasan 
+
 Apple (AAPL)
 Facebook (FB)
 Google (GOOGL)
@@ -30,6 +31,7 @@ Microsoft (MSFT)
 Amazon (AMZN)
 
 Airlines: Akash
+
 American Airlines (AAL)
 Air China Airlines (AIRYY)
 British Airways (BA) - London Stock Exchange
@@ -37,6 +39,7 @@ Lufthansa Airlines (DLAKY)
 Qantas Airlines (QABSY)
 
 Healthcare: Josh 
+
 Moderna Inc (MRNA)
 Co-Diagnostics Inc (CODX)
 Vir Biotechnology (VIR)
