@@ -1,6 +1,8 @@
 Data Analysis & Prediction using Python Tools/Machine Learning
 This is a CISC 4900 group project which is on Stock Analysis based on three different markets 
 
+**NOTE: PLEASE DO NOT USE OUR MODELS OR PREDICTION AS A MEANS TO BUY/SELL STOCK. THIS WAS ONLY MEANT FOR A CS RESEARCH COURSE, ANY INVESTMENT MADE IS DONE ON YOUR OWN ACCORD**
+
 Abstract: 
 
 This project focused on how to make a profit in the stock market. A 12-week investment simulation will be conducted analyzing day trading and bonds in different markets. We want to be able to figure out the factors that attribute to the profits from the stock. Through this project, the knowledge learned from this will be used to create leverage for increasing a person's investing power for the future.
@@ -41,8 +43,9 @@ Qantas Airlines (QABSY)
 Healthcare: Josh 
 
 Moderna Inc (MRNA)
-Co-Diagnostics Inc (CODX)
 Vir Biotechnology (VIR)
-Vaxart Inc (VXRT)
-Inovio Pharmaceuticals, Inc. (INO) 
+Regeneron Pharmaceuticals Inc. (REGN)
+AbbVie Inc. (ABBV) 
+Gilead Sciences, Inc. (GILD)
+
 
