@@ -36,7 +36,7 @@ Airlines: Akash
 
 American Airlines (AAL)
 Air China Airlines (AIRYY)
-British Airways (BA) - London Stock Exchange
+Delta Airline - (DAL)
 Lufthansa Airlines (DLAKY)
 Qantas Airlines (QABSY)
 
