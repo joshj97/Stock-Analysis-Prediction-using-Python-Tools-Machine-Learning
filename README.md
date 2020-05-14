@@ -21,8 +21,9 @@ Project Sources:
 Language/ IDE used: 
 
 Python(Pandas, NumPy, matplotlib, Seaborn, etc.)/Jupyter notebook/PyCharm
-Machine Learning* 
-MySql
+Machine Learning : Linear regression, LSTM, Support vector Regression, KNN algorithm
+Pandas data reader
+CSV data
 
 Technology:  Hasan 
 
