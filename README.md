@@ -3,11 +3,11 @@ This is a CISC 4900 group project which is on Stock Analysis based on three diff
 
 **NOTE: PLEASE DO NOT USE OUR MODELS OR PREDICTION AS A MEANS TO BUY/SELL STOCK. THIS WAS ONLY MEANT FOR A CS RESEARCH COURSE, ANY INVESTMENT MADE IS DONE ON YOUR OWN ACCORD**
 
-Abstract: 
+                                                Abstract: 
 
 This project focused on how to make a profit in the stock market. A 12-week investment simulation will be conducted analyzing day trading and bonds in different markets. We want to be able to figure out the factors that attribute to the profits from the stock. Through this project, the knowledge learned from this will be used to create leverage for increasing a person's investing power for the future.
 
-Goals: 
+                                                  Goals: 
 
 The main goal of this project is to investigate investment opportunities while weighing the risks and benefits while making educated investment decisions. A detailed understanding of the risks and the opportunities on high return for each industry. By gaining all this information, this will be used to help make future decisions in making smart investments. 
 
@@ -18,7 +18,7 @@ We want to be able to analyze specific stock markets such as Technology, Airline
 Project Sources: 
 
 
-Language/ IDE used:
+                                          Language/ IDE used:
 
 Python(Pandas, NumPy, matplotlib, Seaborn, etc.)/Jupyter notebook/PyCharm Machine Learning Machine Learning: Machine learning is part of data science. The word learning in machine learning means that the algorithms depend on some type data that has been used as a training set to fine-tune some model or algorithm parameters. There are many techniques such as regression, naive Bayes or supervised clustering. Machine learning is also involved with statistics to build a model to predict the behavior of data in future. It finds the pattern of the data by using the algorithms of machine learning. By data it can be mean numbers, words, images, clicks or anything we can digitally stored can be used as machine learning data. It has been seen as a subset of Artificial Intelligence which basically builds a mathematical model to predict the data by using a training set. Machine learning has been used everywhere from retail to the financial industry to predict the data set to know what is going to happen in future or how to make it better by getting a prediction. We have tried to use four different types of machine learning algorithms to understand the stock market data we got. We basically want it to see how this model can train the data set we have and implement our data for prediction.
  
